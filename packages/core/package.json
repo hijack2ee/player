@@ -1,0 +1,19 @@
+{
+  "name": "core",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.ts",
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dashjs": "^4.7.2",
+    "hls.js": "^1.4.12"
+  }
+}
